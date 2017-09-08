@@ -1,4 +1,3 @@
-# hello-world
 Repositorio para interactuar entre usuarios de Git
 
 # Glosario de términos relacionados con Git y GitHub
