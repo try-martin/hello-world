@@ -108,7 +108,13 @@ Incluso puede abrir solicitudes de extracción en su propio repositorio y fusion
 
 **Tip:** Puede utilizar emojis y arrastrar y soltar imágenes y gifs en los comentarios y solicitudes de extracción.
 
+## Combine sus solicitudes de extracción
 
+En este paso final, es el momento de reunir sus cambios: fusionar su rama de `readme-edits` en la rama `master`.
 
+1. Haga clic en el botón verde **Merge pull request** para combinar los cambios en la rama `master`.
 
+2. Haga clic en **Confirm merge**.
+
+3. Siga adelante y elimine la rama adjunta, ya que sus cambios se han incorporado, con el botón **Delete branch** en el cuadro morado.
 
